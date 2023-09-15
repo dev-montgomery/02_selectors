@@ -1,0 +1,19 @@
+#welcome-section {
+  padding: 50px;
+}
+
+h1 {
+  font-size: 2em;
+  text-align: center;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.secondary-heading {
+  color: rgb(49, 49, 112);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#second-section p {
+  color: blue;
+}
